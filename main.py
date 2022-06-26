@@ -2,4 +2,17 @@
 Import Packages
 
 """
-import random
+    import random
+      print("\")
+      print(" \")
+      print("   \")
+      print("     \")
+      print("     /")
+      print("    /")
+      print("   /")
+      print("  /")
+      print(" /")
+      print("/")
+      
+      
+      
